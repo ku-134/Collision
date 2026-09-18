@@ -3,7 +3,7 @@
 双人 P2P 实时对战小游戏（观战 + 主动干涉）
 
 ## 在线地址
-https://ku-134.github.io/Gamecurrently/Collision/
+https://ku-134.github.io/Kukuz-Game-Collision/
 
 ## 当前版本
 - v1.0（M1 单机 demo）：单机对战、职业系统（巨人/兵团）、图鉴、自定义按键
